@@ -1,5 +1,5 @@
 
-# PROJETO SECUREUSER
+# PROJETO AEGIS
 # ENTREGA 1 - CRIPTOGRAFIA ASSIMÉTRICA
 # Assinatura digital utilizando Ed25519
 
