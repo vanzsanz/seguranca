@@ -18,7 +18,7 @@ chave_publica = chave_privada.public_key()
 
 
 # 2. Criando uma mensagem
-mensagem = b"Esta mensagem pertence ao sistema SecureUser."
+mensagem = b"Esta mensagem pertence ao sistema Aegis."
 
 # 3. Assinando a mensagem com a chave privada
 assinatura = chave_privada.sign(mensagem)
